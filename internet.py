@@ -69,11 +69,11 @@ class Application(Frame):
 
 	def selectUser(self, id):
 		if id == 0:
-			self.link('14jhwang', '3783Aa')
+			self.link('14jhwang', 'diaonilaomao')
 		elif id == 1:
-			self.link('14ktyang', '1995Tt')
+			self.link('14ktyang', 'diaonilaomao')
 		elif id == 2:
-			self.link('14jyzhou', 'aA80004005')
+			self.link('14jyzhou', 'diaonilaomao')
 		elif id == 3:
 			self.link('14dhuang', 'pw146369')
 		elif id == 4:
