@@ -129,12 +129,3 @@ class Application(Frame):
 app = Application()
 app.master.title('一键联网器 beta版')
 app.mainloop()
-
-
-# cookie = cookielib.CookieJar()
-# handler = urllib2.HTTPCookieProcessor(cookie)
-# opener = urllib2.build_opener(handler)
-# response = opener.open('http://www.baidu.com')
-# for item in cookie:
-# 	print 'Name = ' + item.name
-# 	print 'Value = ' + item.value
